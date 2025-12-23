@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-triggerfromnew#11
+triggerfromnew#12
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
